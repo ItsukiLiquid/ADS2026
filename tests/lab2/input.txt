@@ -1,0 +1,8 @@
+add_back Book
+add_front Movie
+front back
+erase_front
+erase_back
+erase_back
+clear
+exit
